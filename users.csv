@@ -1,0 +1,101 @@
+user_id,age,gender,education_level
+1,58,Male,Master
+2,25,Female,Master
+3,19,Male,PhD
+4,35,Male,Master
+5,33,Male,PhD
+6,32,Female,Bachelor
+7,26,Female,High School
+8,24,Male,High School
+9,52,Male,Bachelor
+10,23,Female,High School
+11,55,Male,PhD
+12,45,Female,High School
+13,20,Female,Bachelor
+14,19,Female,Bachelor
+15,23,Female,High School
+16,31,Female,Bachelor
+17,32,Male,High School
+18,50,Male,High School
+19,56,Male,Bachelor
+20,19,Female,Bachelor
+21,53,Male,Master
+22,30,Male,PhD
+23,59,Female,PhD
+24,52,Male,Master
+25,44,Female,Master
+26,32,Female,Bachelor
+27,46,Female,Master
+28,55,Female,PhD
+29,35,Male,Bachelor
+30,18,Male,Bachelor
+31,28,Male,Master
+32,45,Male,PhD
+33,39,Male,Master
+34,35,Female,Master
+35,27,Female,High School
+36,31,Male,PhD
+37,39,Male,Master
+38,24,Male,Master
+39,23,Male,High School
+40,42,Male,PhD
+41,24,Female,Master
+42,40,Male,Master
+43,40,Female,Master
+44,56,Male,Master
+45,34,Female,Master
+46,20,Female,PhD
+47,47,Female,PhD
+48,52,Female,PhD
+49,25,Male,PhD
+50,42,Female,High School
+51,23,Female,PhD
+52,53,Male,PhD
+53,36,Female,High School
+54,58,Female,PhD
+55,57,Female,Bachelor
+56,41,Female,Bachelor
+57,54,Female,High School
+58,30,Female,High School
+59,22,Female,High School
+60,20,Female,Bachelor
+61,60,Female,High School
+62,32,Female,Bachelor
+63,36,Female,High School
+64,23,Female,PhD
+65,32,Male,High School
+66,24,Male,Master
+67,42,Male,Bachelor
+68,35,Male,Master
+69,47,Male,PhD
+70,58,Female,PhD
+71,41,Male,High School
+72,28,Male,Bachelor
+73,41,Male,PhD
+74,40,Female,High School
+75,31,Female,PhD
+76,60,Female,PhD
+77,35,Female,Master
+78,59,Female,Bachelor
+79,22,Male,Master
+80,56,Male,Master
+81,58,Male,High School
+82,28,Female,High School
+83,52,Male,High School
+84,33,Female,Master
+85,28,Female,Bachelor
+86,47,Female,High School
+87,42,Male,PhD
+88,35,Female,High School
+89,58,Female,PhD
+90,53,Female,Bachelor
+91,32,Female,High School
+92,38,Male,High School
+93,21,Female,Bachelor
+94,32,Male,Master
+95,20,Female,High School
+96,38,Female,PhD
+97,43,Female,Bachelor
+98,35,Male,PhD
+99,22,Male,High School
+100,31,Male,Master
